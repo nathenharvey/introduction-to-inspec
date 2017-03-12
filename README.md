@@ -8,9 +8,23 @@ During this session, participants will:
 * Run InSpec on a remote machine
 * Use InSpec in the Chef cookbook development process for integration testing
 
+## Pop-up Workshop Agenda
+
+Just the hands-on bits.  Assumes all of the pre-lab context has been set.
+
+* Learning Lab [[PPT](powerpoint/Learning_Lab.pptx), [PDF](pdf/Learning_Lab.pdf)]
+* Continuous Compliance [[PPT](powerpoint/Continuous-Compliance.pptx), [PDF](pdf/Continuous-Compliance.pdf)]
+* Remediate SSH Control [[PPT](powerpoint/Remediate-SSH-Control.pptx), [PDF](pdf/Remediate-SSH-Control.pdf)]
+* More Exercises [[PPT](powerpoint/More-Exercises.pptx), [PDF](pdf/More-Exercises.pdf)]  
+* Further Resources [[PPT](powerpoint/Further-Resources.pptx), [PDF](pdf/Further-Resources.pdf)]
+
+All in one deck - [Powerpoint](powerpoint/PopUp-InSpec-Workshop.pptx), [PDF](pdf/PopUp-InSpec-Workshop.pdf)
+
 ## Agenda
 
-* Orientation to the learning environment [[PPT](powerpoint/01-Learning-Environment.pptx), [PDF](pdf/01-Learning-Environment.pdf)]
+This runs longer than just the pop-up workshop.  Estimate this is a 3.5-4 hour workshop.
+
+* Orientation to the Strigo learning environment [[PPT](powerpoint/01-Learning-Environment.pptx),[PDF](pdf/Strigo-Environment.pdf)]
 * Infrastructure as Code [[PPT](powerpoint/02-Infrasturcture-as-Code.pptx), [PDF](pdf/02-Infrasturcture-as-Code.pdf)]
 * Introduction to InSpec [[PPT](powerpoint/03-Compliance-as-Code.pptx), [PDF](pdf/03-Compliance-as-Code.pdf)]
 * The InSpec Command Line Interface (CLI) [[PPT](powerpoint/04-InSpec-CLI.pptx), [PDF](pdf/04-InSpec-CLI.pdf)]
