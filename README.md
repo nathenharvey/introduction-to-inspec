@@ -20,6 +20,8 @@ Just the hands-on bits.  Assumes all of the pre-lab context has been set.
 
 All in one deck - [Powerpoint](powerpoint/PopUp-InSpec-Workshop.pptx), [PDF](pdf/PopUp-InSpec-Workshop.pdf)
 
+[Instructions for setting up the lab environment can be found on GitHub](https://github.com/adamleff/tf-compliance-workshop).
+
 ### Videos & Slides On-line
 
 A [version of this slide deck, with embedded videos](https://www.slideshare.net/nathenharvey/dev-opsdc-inspecworkshopslideshare/), is posted on Slideshare.
