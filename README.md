@@ -20,6 +20,18 @@ Just the hands-on bits.  Assumes all of the pre-lab context has been set.
 
 All in one deck - [Powerpoint](powerpoint/PopUp-InSpec-Workshop.pptx), [PDF](pdf/PopUp-InSpec-Workshop.pdf)
 
+[Instructions for setting up the lab environment can be found on GitHub](https://github.com/adamleff/tf-compliance-workshop).
+
+### Videos & Slides On-line
+
+A [version of this slide deck, with embedded videos](https://www.slideshare.net/nathenharvey/dev-opsdc-inspecworkshopslideshare/), is posted on Slideshare.
+
+A [playlist with each step as an individual video](https://www.youtube.com/playlist?list=PLKK5zTDXqzFMTrUEUKwbmO-uqbUwlD2or) is available on YouTube.
+
+A [video demoing all of the steps of the workshop](https://www.youtube.com/watch?v=Vutce7-teDY) is available on YouTube.
+
+A [recording of a presentation at the DevOpsDC Meetup](https://www.youtube.com/watch?v=M2VfCVP1Wp4) is available on YouTube.
+
 ## Agenda
 
 This runs longer than just the pop-up workshop.  Estimate this is a 3.5-4 hour workshop.
